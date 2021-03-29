@@ -37,4 +37,4 @@ client.on("message", async message => {
         const dispatcher = connection.play(mei.talk(message.author.username + "　　。" + message.content));
     }
 });
-client.login("");
+client.login("ODIzMTIyMjkzMTg5OTAyMzM2.YFcOXw.4JN1uNGaFckgOPhD0wlF21SFXi4");
